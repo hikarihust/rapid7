@@ -3,4 +3,5 @@
 
 Installation of Symantec CCSVM / Rapid7 Nexpose
 Activating Symantec CCSVM / Nexpose
+Configure Scan in Symantec CCSVM / Rapid7 Nexpose
     
